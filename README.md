@@ -5,11 +5,8 @@
 
 > 项目效果如下（动图较大，在aseets文件夹内部）  
 ![image](https://github.com/WhatProblem/breakfast_shop/blob/master/assets/1.jpg)
-![image](https://github.com/WhatProblem/breakfast_shop/blob/master/assets/2.jpg)
-![image](https://github.com/WhatProblem/breakfast_shop/blob/master/assets/3.jpg)
 ![image](https://github.com/WhatProblem/breakfast_shop/blob/master/assets/4.jpg)
 ![image](https://github.com/WhatProblem/breakfast_shop/blob/master/assets/5.jpg)
-![image](https://github.com/WhatProblem/breakfast_shop/blob/master/assets/6.jpg)
 ![image](https://github.com/WhatProblem/breakfast_shop/blob/master/assets/7.jpg)
 ![image](https://github.com/WhatProblem/breakfast_shop/blob/master/assets/8.jpg)
 ![image](https://github.com/WhatProblem/breakfast_shop/blob/master/assets/9.jpg)

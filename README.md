@@ -23,7 +23,7 @@
  - flutter_screenutil
  - shimmer
 
-~~flutter目前掌握程度有待于提高，项目功能后期会陆续补全  
+~~flutter目前掌握程度有待于提高，项目功能后期会陆续补全~~  
 
 附[dart基础语法总结文档](https://github.com/WhatProblem/breakfast_shop/blob/master/dart.md)
 

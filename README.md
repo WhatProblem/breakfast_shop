@@ -4,12 +4,12 @@
 前段时间公司开发移动混合应用,开始选型mui,性能体验成了大问题，毕竟原生成本较高，只能将就，后期用户反映体验太差(我们也知道差，但是没法啊)，不得不重新选型，接着flutter来了，ios与android两个平台基本一致，与原生相比基本没太大差别，自己制作了一个小demo方便我们这群新手学习，复习使用~~~
 
 > 项目效果如下（动图较大，在aseets文件夹内部）
-<img src="https://github.com/WhatProblem/breakfast_shop/blob/master/assets/1.jpg" width="375" style="float:left">
-<img src="https://github.com/WhatProblem/breakfast_shop/blob/master/assets/4.jpg" width="375" style="float:left">
-<img src="https://github.com/WhatProblem/breakfast_shop/blob/master/assets/5.jpg" width="375" style="float:left">
-<img src="https://github.com/WhatProblem/breakfast_shop/blob/master/assets/7.jpg" width="375" style="float:left">
-<img src="https://github.com/WhatProblem/breakfast_shop/blob/master/assets/8.jpg" width="375" style="float:left">
-<img src="https://github.com/WhatProblem/breakfast_shop/blob/master/assets/9.jpg" width="375" style="float:left">
+<img src="https://github.com/WhatProblem/breakfast_shop/blob/master/assets/1.jpg" width="375" float="left">
+<img src="https://github.com/WhatProblem/breakfast_shop/blob/master/assets/4.jpg" width="375" float="left">
+<img src="https://github.com/WhatProblem/breakfast_shop/blob/master/assets/5.jpg" width="375" float="left">
+<img src="https://github.com/WhatProblem/breakfast_shop/blob/master/assets/7.jpg" width="375" float="left">
+<img src="https://github.com/WhatProblem/breakfast_shop/blob/master/assets/8.jpg" width="375" float="left">
+<img src="https://github.com/WhatProblem/breakfast_shop/blob/master/assets/9.jpg" width="375" float="left">
 
 + 项目中目前使用插件如下（目前都是静态数据后续会使用http请求的插件）
  - flutter_swiper
